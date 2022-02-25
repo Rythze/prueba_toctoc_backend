@@ -9,4 +9,4 @@ Inicia el agente que permite poblar la Base de datos.
 ## `node server.js`
 Levanta el servidor ExpressJS.
 
-Considerar actualizar el directorio del archivo de la Base de datos el cual se encuentra en ./repository/metrics.db
+Considerar actualizar el directorio del archivo de la Base de datos (/controller/metricsController.js) el cual se encuentra en ./repository/metrics.db
