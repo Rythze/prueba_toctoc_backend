@@ -1,3 +1,12 @@
-Para poder iniciar el proyecto es necesario contar con NodeJS instalado (https://nodejs.org/es/download/), además de instalar las dependencias mediante el comando "npm i", posteriormente se debe ejecutar el comando "npm start", el cual iniciara el agente que permite poblar la base de datos.
+Para poder iniciar el proyecto es necesario contar con NodeJS instalado (https://nodejs.org/es/download/), posteriormente se deben ejecutar los siguientes comandos:
 
-Además, para poder levantar el servidor ExpressJS es necesario iniciarlo mediante el comando "node server.js" que es el archivo donde se encuentra desarrollado.
+## `npm i`
+Permite instalar las dependencias del proyecto.
+
+## `npm start`
+Inicia el agente que permite poblar la Base de datos.
+
+## `node server.js`
+Levanta el servidor ExpressJS.
+
+Considerar actualizar el directorio del archivo de la Base de datos el cual se encuentra en ./repository/metrics.db
